@@ -4,7 +4,7 @@
 <p>apt install python -y</p>
 
 <p>apt install git -y</p>
-<p>git clone https://github.com/jeager000/webdav.git</p>
+<p>git clone https://github.com/jeager000/deface_webdav.git </p>
 <h3>Menjalankan</h3>
 <p>cd deface_webdav </p>
 <p>pip install -r requirements.txt</p>
